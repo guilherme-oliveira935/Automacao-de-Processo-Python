@@ -36,6 +36,10 @@ Criar um script que, da forma mais automática possível, calcule o OnePage de c
 
 Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)
 
+### Exemplo de E-mail a ser enviado
+
+![email](https://github.com/guilherme-oliveira935/assets/blob/main/email_example.png)
+
 ## Tecnologias utilizadas
 - Python 3
 - Biblioteca Pandas
@@ -43,13 +47,14 @@ Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve 
 - Biblioteca win32
 
 ## Como executar o projeto
+- Pré-requisisto: ter o jupyter instalado no computador
 - instalar as bibliotecas mencionadas;
 - Ter o outlook baixado no seu computador;
 - Clonar esse repositório;
 - Mudar as linhas de códigos indicadas no arquivo Automacao de processo.ipynb para o devido caminho dos diretórios;
 
 ### OBS
-O projeto está disponível como .ipynb por facilitar executar difentes partes do script de forma independente, dessa forma, recomendo vizualisar o arquivo para ter um storytelling bem detalhado de cada etapa do processo.
+O projeto está disponível como .ipynb por facilitar executar difentes partes do script de forma independente e auxiliar no entendimento, dessa forma, recomendo vizualisar o arquivo para ter um storytelling bem detalhado de cada etapa do processo.
 
 ### Autor
 Guilherme Oliveira
