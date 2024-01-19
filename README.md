@@ -52,5 +52,5 @@ Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve 
 O projeto está disponível como .ipynb por facilitar executar difentes partes do script de forma independente, dessa forma, recomendo vizualisar o arquivo para ter um storytelling bem detalhado de cada etapa do processo.
 
 ### Autor
-Guilherme Olveira
+Guilherme Oliveira
 
