@@ -1,5 +1,7 @@
 # Automação de Indicadores
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/guilherme-oliveira935/Automacao-de-Processo-Python/blob/main/LICENSE)
+
 ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador e que pode servir uma lógica padrão para diversos processos administrativos
 
 ### Descrição:
